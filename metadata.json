@@ -1,0 +1,6 @@
+{
+  "name": "Apex Rush: Street Horizon",
+  "description": "A procedural 3D arcade street-racing game with 6 distinct levels, customizable cars, upgrade garage, AI opponents, traffic, police chases, and Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
